@@ -1,0 +1,22 @@
+{
+  "name": "tinq",
+  "version": "0.2.0",
+  "description": "LINQ for Typescript.",
+  "main": "tinq.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moss-oliver/TINQ.git"
+  },
+  "keywords": [
+    "LINQ"
+  ],
+  "author": "Oliver Moss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moss-oliver/TINQ/issues"
+  },
+  "homepage": "https://github.com/moss-oliver/TINQ#readme"
+}
